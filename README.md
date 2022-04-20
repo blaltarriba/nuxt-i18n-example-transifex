@@ -1,5 +1,10 @@
-# nuxt-i18n-example
+# nuxt-i18n-example with Transifex
 
+Project to test the integration between a NuxtJS project and the TMS Transifex.
+
+## nuxt-i18n-example
+
+Taken from
 > [nuxt-i18n](https://github.com/paulgv/nuxt-i18n) showcase project based on nuxt-starter template
 
 [https://nuxt-i18n-example.now.sh/](https://nuxt-i18n-example.now.sh/)
@@ -14,11 +19,11 @@ $ yarn # Or npm install
 $ yarn dev
 
 # build for production and launch server
-$ yarn build
-$ yarn start
+#$ yarn build
+#$ yarn start
 
 # generate static project
-$ yarn generate
+#$ yarn generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
