@@ -4,8 +4,5 @@ git:
       file_format: KEYVALUEJSON
       source_file_extension: json
       source_language: en
-      source_file_dir: lang/en_US
+      source_file_dir: lang/en
       translation_files_expression: 'lang/<lang>/'
-  settings:
-    language_mapping:
-      en: en_US
