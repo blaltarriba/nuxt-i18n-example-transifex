@@ -1,9 +1,9 @@
 // import en from '../lang/en-US.js'
 // import fr from '../lang/fr-FR.js'
 // import es from '../lang/es-ES.js'
-import en from '../lang/en_US/en_US.json'
-import fr from '../lang/fr_FR/fr_FR.json'
-import es from '../lang/es_ES/es_ES.json'
+import en from '../lang/en/en_US.json'
+import fr from '../lang_v2/fr_FR/fr_FR.json'
+import es from '../lang_v2/es_ES/es_ES.json'
 
 export const API_ROOT = 'https://jsonplaceholder.typicode.com/'
 
