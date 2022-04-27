@@ -1,0 +1,45 @@
+{
+  "antacids": {
+    "meta_title": "es Acid Reflux Treatment UK - Unlimited Medication and Support with Numan",
+    "meta_desc":
+      "We take the hassle out of symptom management with our acid reflux treatment plan. Includes ongoing clinical support, unlimited treatment, lifestyle advice, and free, discreet delivery. UK Approved Pharmacy & CQC Registered.",
+    "hero": {
+      "title": "Antacids",
+      "subtitle": "es (Potassium hydrogen carbonate/sodium alginate)",
+      "intro":
+        "es Antacids work by neutralising the acid in your stomach. They also create a protective barrier at the top of your stomach to prevent reflux symptoms like heartburn.",
+      "details": [
+        { "title": "es Takes effect in", "value": "es 30 minutes" },
+        {
+          "title": "es How well it works",
+          "value": "es Antacids are up to 60% effective in managing short term reflux symptoms."
+        }
+      ],
+      "price_label": "es Price starts from",
+      "button": "es Get started"
+    },
+    "related_treatments": {
+      "title": "es Related acid reflux treatments",
+      "subtitle":
+        "es There’s more than one solution to acid reflux. Take a look at our acid reflux treatments to find the one most suited to your needs and lifestyle."
+    },
+    "faq": {
+      "title": "es Antacids: facts you need to know",
+      "subtitle": "es Straightforward answers to frequently asked questions.",
+      "list": [
+        {
+          "title": "es How do you take antacids?",
+          "text": "es Antacids should be taken when you feel the symptoms of reflux. Usually, this is just after meals or before you go to bed.<br><br>\nIt’s recommended to take antacids as advised by a clinician or as directed in the patient information leaflet that comes with your medication. If you are prescribed any other medication, you should allow a 2-hour window on either side of taking an antacid, as it can affect absorption in the gut."
+        },
+        {
+          "title": "es Do antacids have side effects?",
+          "text": "es Antacids generally have no side effects for most people when they are taken in the right way.<br><br>\nThere is a very rare chance of an allergic reaction that occurs in less than 1 in 10,000 patients. If symptoms such as swelling or a rash occur, you should stop taking the medication and consult a clinician."
+        },
+        {
+          "title": "es Will I need antacids long term?",
+          "text": "es Antacids are fine to take occasionally for symptoms of heartburn if overseen by a health professional.<br><br/>\nIf you need an antacid for more than 7 days in a row, it’s recommended to check in with a clinician to rule out any underlying conditions and to make sure that you’re on the best treatment plan for you."
+        }
+      ]
+    }
+  }
+}
