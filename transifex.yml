@@ -6,3 +6,7 @@ git:
       source_language: en
       source_file_dir: lang/en
       translation_files_expression: 'lang/<lang>/'
+      ignore_dirs:
+        - lang/en/folder_to_omit
+      ignore_files:
+        - lang/en/new_file_to_omit.json
