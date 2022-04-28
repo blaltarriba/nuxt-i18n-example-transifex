@@ -4,5 +4,6 @@
   "about": "About us",
   "homepage": {
     "subtitle": "nuxt-i18n demo"
-  }
+  },
+  "anotheroneabout": "Another about us"
 }
